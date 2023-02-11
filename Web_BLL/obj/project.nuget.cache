@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iGMa59/QJb5B7lSjixdon4V2JSnxs+JN3eWHhUX7bfiJT6vnk7tYTfGK93VryPufDerWaYPHBzW9KoW2dzfD/Q==",
+  "dgSpecHash": "ryhluOv3hdfHMbZUD673EgcFUEMyvHOA7mEo3PJoopTyYWJPtREJBxTrXPZMwp40AJt08LOc/0tsyXW80xZhzg==",
   "success": true,
-  "projectFilePath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\Web_BLL.csproj",
+  "projectFilePath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\Web_BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

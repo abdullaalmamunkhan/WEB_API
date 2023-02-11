@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj": {}
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj": {}
   },
   "projects": {
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj": {
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj",
+        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj",
         "projectName": "Web_Entity",
-        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj",
+        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\obj\\",
+        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

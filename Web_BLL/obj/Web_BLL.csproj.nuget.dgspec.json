@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\Web_BLL.csproj": {}
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\Web_BLL.csproj": {}
   },
   "projects": {
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\Web_BLL.csproj": {
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\Web_BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\Web_BLL.csproj",
+        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\Web_BLL.csproj",
         "projectName": "Web_BLL",
-        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\Web_BLL.csproj",
+        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\Web_BLL.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_BLL\\obj\\",
+        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\Web_DAL.csproj": {
-                "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\Web_DAL.csproj"
+              "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\Web_DAL.csproj": {
+                "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\Web_DAL.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\Web_DAL.csproj": {
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\Web_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\Web_DAL.csproj",
+        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\Web_DAL.csproj",
         "projectName": "Web_DAL",
-        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\Web_DAL.csproj",
+        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\Web_DAL.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_DAL\\obj\\",
+        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +87,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj": {
-                "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj"
+              "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj": {
+                "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj"
               }
             }
           }
@@ -113,7 +114,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -122,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj": {
+    "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj",
+        "projectUniqueName": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj",
         "projectName": "Web_Entity",
-        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj",
+        "projectPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\obj\\",
+        "outputPath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -191,7 +193,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -200,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

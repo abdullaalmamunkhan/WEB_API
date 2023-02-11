@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btSxfoss2XdU3hSZkPEephEX/0g7GUfQxjBmdkogZkUaJY4HoOQh4iZSTq+kF1tDzg2O0PzpljxlrMScVEJbiw==",
+  "dgSpecHash": "R2etZWOCxUF9mMnbtlv+6An0OpepYfByvEkkLm58ol5psjK31h5+uGbPtPIVxu6rnK7fU5dxmSPRT/s6LLqn4Q==",
   "success": true,
-  "projectFilePath": "F:\\Do_Project\\GIT_PROJECT\\ASP_NET_MVC\\Web_Entity\\Web_Entity.csproj",
+  "projectFilePath": "F:\\Do_Project\\GIT_PROJECT\\WEB_API\\Web_Entity\\Web_Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
